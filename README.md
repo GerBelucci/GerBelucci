@@ -1,4 +1,4 @@
-### Hi, I'm Germán! 👋
+# Hi, I'm Germán! 👋
 
 <!--
 **GerBelucci/GerBelucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### 🚀 About me
+## 🚀 About me
 System Engineering student at Universidad Tecnológica Nacional with solid knowledge in C, C++, Java and Python programming. I am constantly looking for new challenges that allow me to apply my technical and creative skills to develop innovative solutions.
